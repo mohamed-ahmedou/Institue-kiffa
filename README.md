@@ -1,1 +1,1 @@
-simple site with html, css and tailwindcss
+simple website with html, css and tailwindcss
